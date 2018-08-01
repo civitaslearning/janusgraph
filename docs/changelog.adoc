@@ -8,7 +8,7 @@
 <dependency>
    <groupId>org.janusgraph</groupId>
    <artifactId>janusgraph-core</artifactId>
-   <version>0.3.0</version>
+   <version>0.3.0-civitas-SNAPSHOT</version>
 </dependency>
 
 *Tested Compatibility:*
@@ -102,7 +102,7 @@ For more information on features and bug fixes in 0.1.1, see the GitHub mileston
 
 * https://github.com/JanusGraph/janusgraph/milestone/3?closed=1
 
-=== Version 0.1.0 (Release Date: April 11, 2017) 
+=== Version 0.1.0 (Release Date: April 11, 2017)
 
 [source, xml]
 <dependency>
